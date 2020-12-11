@@ -1,6 +1,6 @@
 ### Hi there 👋, Kratik Here :)  
 
-- 🔭 I’m currently working on : Vue.js, nodejs, Firebase, Travis-CI
+- 🔭 I’m currently working on : AWS, GitHub Actions, A Little bit of Javascript
 - 💬 Ask me about :  Cloud Native Solutions, Containers & Their Orchestration(Docker and K8s), Python, Linux, Bash :)
 - 🥇 Certification : [CKA](https://www.youracclaim.com/badges/53515af8-bc86-48a4-b84f-3606950163b1/linked_in_profile) (Score - 100%)
 - 📫 How to reach me :  kratik@perpetualny.com
